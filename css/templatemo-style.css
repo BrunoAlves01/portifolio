@@ -241,7 +241,7 @@ bootstrap.min.css:5
 
 
 #about {
-	padding: 150px 237px;
+	padding: 150px 0px;
 	background-image: url(../img/about-bg.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
